@@ -6,28 +6,28 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: downloaded sample data for airbnb short term rental prices 
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: cleaned data set
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: type of output file (csv)
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: cleaned dataset with outliers and null values removed
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: min price for outlier removal
+        type: float
 
       max_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: max price for outlier removal
+        type: float
 
 
     command: >-
