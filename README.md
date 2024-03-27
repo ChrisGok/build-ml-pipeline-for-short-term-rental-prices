@@ -569,5 +569,9 @@ you have trained your new model on the new data.
 
 [License](LICENSE.txt)
 
-## Weights & Biases project
+### Weights & Biases project
 https://wandb.ai/gokuschr/nyc_airbnb
+
+### Github link
+https://github.com/ChrisGok/build-ml-pipeline-for-short-term-rental-prices
+
