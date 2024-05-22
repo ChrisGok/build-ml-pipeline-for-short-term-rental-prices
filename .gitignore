@@ -113,3 +113,6 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+
+# description only in local repo
+README_description.md
